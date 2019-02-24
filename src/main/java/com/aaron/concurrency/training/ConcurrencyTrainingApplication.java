@@ -1,4 +1,4 @@
-package com.training.aaron.concurrencytraining;
+package com.aaron.concurrency.training;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
